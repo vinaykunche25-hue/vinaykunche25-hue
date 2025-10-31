@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vinay Kunche 👋  
+*Data Analyst (Intern)* — SQL • Databases • Excel • Python (Basics) • HTML/CSS • PowerPoint  
 
-<!--
-**vinaykunche25-hue/vinaykunche25-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Current project:** *Sales Insights Dashboard* (MS Excel + SQL + Visualization)  
+✅ I analyze business data to uncover insights and create reports with clear visuals.  
+🌱 **Learning:** advanced Excel, Power BI, and data storytelling  
+🌐 **LinkedIn:** [vinay-kunche-7b306436b](https://www.linkedin.com/in/vinay-kunche-7b306436b)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧠 Tech Stack  
+- SQL, Databases  
+- Python (Basics)  
+- Microsoft Excel & PowerPoint  
+- HTML, CSS  
+- Data Cleaning & Visualization  
+
+---
+
+## 📊 Projects (Pinned Below)  
+1. **Sales Insights Dashboard** – Interactive Excel dashboard showing sales trends and KPIs  
+2. **Student Performance Tracker** – SQL + Python project for analyzing and visualizing student results  
+
+---
+
+💡 *Always curious to learn and grow in the field of data analytics.*
+
 -->
