@@ -1,5 +1,5 @@
 # Hi, I'm Vinay Kunche 👋  
-*Data Analyst (Intern)* — SQL • Databases • Excel • Python (Basics) • HTML/CSS • PowerPoint  
+*Data Analyst — SQL • Excel • Python (Basics) • Power Bi
 
 🔭 **Current project:** *Sales Insights Dashboard* (MS Excel + SQL + Visualization)  
 ✅ I analyze business data to uncover insights and create reports with clear visuals.  
@@ -9,10 +9,9 @@
 ---
 
 ## 🧠 Tech Stack  
-- SQL, Databases  
+- SQL
 - Python (Basics)  
-- Microsoft Excel & PowerPoint  
-- HTML, CSS  
+- Microsoft Excel & PowerPoint   
 - Data Cleaning & Visualization  
 
 ---
